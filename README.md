@@ -70,13 +70,90 @@
  </div>
 
 
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sucheta8976&show_icons=true&locale=en&layout=compact" alt="sucheta8976" /></p>
 
 
+
+
+
+
+
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<br>
  
+ 
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Sucheta8976&theme=radical&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=Sucheta8976&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sucheta8976&show_icons=true&locale=en" alt="sucheta8976" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sucheta8976&" alt="sucheta8976" /></p>
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sucheta8976&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+<br>
+
+
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
+                                                                                    
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+<br>
+<p align="centre">
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sucheta8976&theme=react-dark)  </p>
+
+
+
+
+
+
+
+
+ <br>
+ <div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+ <!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Sucheta8976/count.svg" />  
+</p>
+
 
