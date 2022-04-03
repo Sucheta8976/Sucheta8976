@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Sucheta Sarkar </h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=21&color=FFF53F&background=020010&center=true&width=420&lines=I+am+into+Designing;I+am+into+Front-end+Development;I+am+into+Back-end+Development;I+am+into+Programming"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sucheta8976&label=Profile%20views&color=0e75b6&style=flat" alt="sucheta8976" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sucheta8976&label=Profile%20views&color=0e75b6&style=flat" alt="sucheta8976" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sucheta8976" alt="sucheta8976" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/sucheta98021091" target="blank"><img src="https://img.shields.io/twitter/follow/sucheta98021091?logo=twitter&style=for-the-badge" alt="sucheta98021091" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/sucheta98021091" target="blank"><img src="https://img.shields.io/twitter/follow/sucheta98021091?logo=twitter&style=for-the-badge" alt="sucheta98021091" /></a> </p> -->
 
 - 🔭 I’m currently learning **Full Stack Web Development**
 
