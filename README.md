@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/sucheta98021091" target="blank"><img src="https://img.shields.io/twitter/follow/sucheta98021091?logo=twitter&style=for-the-badge" alt="sucheta98021091" /></a> </p> -->
 
-- 🔭 I’m currently learning **Full Stack Web Development** & **Data Structure and Algorithm**
+- 🔭 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **suchetasarkar2936@gmail.com**
 
